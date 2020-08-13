@@ -24,7 +24,6 @@
     "rateyo": "^2.3.5"
   },
   "dependencies": {
-    "animate.css": "^4.1.0",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-sass": "^4.1.0",
     "slick-carousel": "^1.8.1"
